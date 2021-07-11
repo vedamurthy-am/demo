@@ -1,0 +1,9 @@
+/target/classes/com/veda/demo/*.class
+/target/*.jar
+/target/*.original
+/target/maven-archiver/*.properties
+/target/maven-status/maven-compiler-plugin/compile/default-compile/*.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/*.lst
+/target/surefire-reports/*.xml
+/target/surefire-reports/*.txt
+/target/test-classes/com/veda/demo/*.class
